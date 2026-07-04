@@ -1,0 +1,39 @@
+{
+  "project_path": "second-classroom.react",
+  "framework": "shadcn_style",
+  "ui_framework": "shadcn_style",
+  "theme_color": "auto",
+  "appearance_mode": "light",
+  "react_platform": null,
+  "framework_profile": {
+    "required_files": [
+      "src/lib/utils.ts"
+    ],
+    "required_imports": [],
+    "provider_markers": [],
+    "runtime_packages": [
+      "class-variance-authority",
+      "clsx",
+      "tailwind-merge",
+      "recharts",
+      "lucide-react",
+      "sonner",
+      "date-fns",
+      "zustand",
+      "framer-motion"
+    ]
+  },
+  "theme_summary": {
+    "background": "#ffffff",
+    "surface": "#ffffff",
+    "text": "#0f172a",
+    "muted_text": "#64748b",
+    "primary": "#2563eb",
+    "primary_foreground": "#ffffff"
+  },
+  "validation_errors": [],
+  "build_output": "",
+  "repair_count": 0,
+  "preview_path": null,
+  "build_passed": false
+}

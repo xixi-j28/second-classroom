@@ -1,0 +1,34 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "src": "src/pages/Home.tsx"
+    },
+    {
+      "path": "/students",
+      "src": "src/pages/Students.tsx"
+    },
+    {
+      "path": "/activities",
+      "src": "src/pages/Activities.tsx"
+    },
+    {
+      "path": "/transcript",
+      "src": "src/pages/Transcript.tsx"
+    },
+    {
+      "path": "/reports",
+      "src": "src/pages/Reports.tsx"
+    }
+  ],
+  "components": [
+    {
+      "name": "AppLayout",
+      "src": "src/components/AppLayout.tsx"
+    },
+    {
+      "name": "ModuleTag",
+      "src": "src/components/ModuleTag.tsx"
+    }
+  ]
+}
